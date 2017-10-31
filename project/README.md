@@ -23,17 +23,17 @@ as we know it today.
  - How to eliminate equal patents that were filed under several identifiers?
  - How to draw conclusions about technology soley given patents and their citations?
  
-### Dataset
+### Datasets
  - [USPTO patents database](http://www.patentsview.org/download)
  - [Google patents](https://www.google.ch/patents)
 
-### A list of internal milestones up until project milestone 2
+### Internal milestones up until milestone 2
  - Refresh on graph algorithms.
  - Look for efficient graph processing libraries. Preferably with GPU integration.
  - Sight data and perform preliminary analysis.
  - Find blog skeleton.
  - Discuss narrative of the data story.
 
-### Questions for TAa
+### TA Questions
  - What technologies do professional data blogs like FiveThirtyEight use for visualisation? 
  - What is [Kirell Benzi's](http://www.kirellbenzi.com) magic library? 
