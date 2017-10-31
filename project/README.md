@@ -1,5 +1,5 @@
 # Backtracing Innovation
-## From Snapchat's Facial Recognition to the Inception of Semiconductors
+From Snapchat's Facial Recognition to the Inception of Semiconductors
 
 ### Abstract
 The US Patent & Trademark Office, short USPTO, offers a full-fledged directed graph of US patent
