@@ -5,14 +5,14 @@ From Snapchat's Facial Recognition to the Inception of Semiconductors
 The US Patent & Trademark Office, short USPTO, offers a full-fledged directed graph of US patent
 citations since 1975. Many at the time obscure patents paved the way for groundbreaking new
 technologies in the future, as for example Google's Page Rank (#6285999) or Apple's touch screen
-devices (#7479949). In our project we endevor to visualize this massive graph with more than
+devices (#7479949). In our project we endeavor to visualize this massive graph with more than
 89 Million edges in an appealing and concise way in order to render the narration of more
 intricate stories possible and offer potential users a slick and interactive interface
 for navigating the patents graph. Inspirations on how to beautifully draw a graph network
 are taken from [Kirell Benzi](http://www.kirellbenzi.com). Those stories may range from analysing
 node connectivities to extract influences of particular inventors to finding the
 shortest walks between patents. Through this we hope to gain deeper insight into the
-metastructure of inventions throughout digital revolution and how they shape the future
+metastructure of inventions throughout the digital revolution and how they shape the future
 as we know it today.
 
 ### Research questions
