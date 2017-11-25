@@ -3,3 +3,6 @@
 # Jupyter residuals
 /**/__pycache__
 /**/.ipynb_checkpoints
+
+# Project data files
+/**/uspatentcitation.tsv
