@@ -4,8 +4,9 @@ From Snapchat's Facial Recognition to the Inception of Semiconductors
 ### Abstract
 The US Patent & Trademark Office, short USPTO, offers a full-fledged directed graph of US patent
 citations since 1975. Many at the time obscure patents paved the way for groundbreaking new
-technologies in the future, as for example Google's Page Rank (#6285999) or Apple's touch screen
-devices (#7479949). In our project we endeavor to visualize this massive graph with more than
+technologies in the future, as for example Google's Page Rank (#6285999) or Stephen Wozniak’s
+Microcomputer for use with video display (#4136359).. In our project we endeavor to visualize
+this massivegraph with more than
 89 Million edges in an appealing and concise way in order to render the narration of more
 intricate stories possible and offer potential users a slick and interactive interface
 for navigating the patents graph. Inspirations on how to beautifully draw a graph network
@@ -28,12 +29,21 @@ as we know it today.
  - [Google patents](https://www.google.ch/patents)
 
 ### Internal milestones up until milestone 2
- - Refresh on graph algorithms.
- - Look for efficient graph processing libraries. Preferably with GPU integration.
- - Sight data and perform preliminary analysis.
- - Find blog skeleton.
- - Discuss narrative of the data story.
+ - [x] Refresh on graph algorithms.
+ - [x] Look for efficient graph processing libraries. Preferably with GPU integration.
+ - [x] Sight data and perform preliminary analysis.
+ - [x] Find blog skeleton.
+ - [] Discuss narrative of the data story.
+
+### Internal milestones up until milestone 3
+ - [] Get the blog up and running.
+ - [] Prepare and compute first data blocks for the website
+ - [] Finish data story.
+ - [] Have visualization online.
+ - [] Polish.
 
 ### TA Questions
- - What technologies do professional data blogs like FiveThirtyEight use for visualisation? 
- - What is [Kirell Benzi's](http://www.kirellbenzi.com) magic library? 
+ * What technologies do professional data blogs like FiveThirtyEight use for visualisation?
+    - A variety, from custom JS to custom photoshop and illustrator.
+ * What is [Kirell Benzi's](http://www.kirellbenzi.com) magic library?
+    -  Most advanced stuff can be done with d3.js, other graph visualizations can be done with igraph, graph-tool, gephi, etc. but not all of them scale well.
