@@ -33,14 +33,14 @@ as we know it today.
  - [x] Look for efficient graph processing libraries. Preferably with GPU integration.
  - [x] Sight data and perform preliminary analysis.
  - [x] Find blog skeleton.
- - [-] Discuss narrative of the data story.
+ - [ ] Discuss narrative of the data story.
 
 ### Internal milestones up until milestone 3
- - [-] 1st week of December: Get the blog up and running.
- - [-] 1st week of December: Prepare and compute first data blocks for the website
- - [-] 2nd week of December: Finish data story.
- - [-] 2nd week of December: Have visualization online.
- - [-] Beginning of 3rd week of December: Polish.
+ - [ ] 1st week of December: Get the blog up and running.
+ - [ ] 1st week of December: Prepare and compute first data blocks for the website
+ - [ ] 2nd week of December: Finish data story.
+ - [ ] 2nd week of December: Have visualization online.
+ - [ ] Beginning of 3rd week of December: Polish.
 
 ### TA Questions
  * What technologies do professional data blogs like FiveThirtyEight use for visualisation?
