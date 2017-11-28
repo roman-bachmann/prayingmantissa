@@ -5,7 +5,7 @@ From Snapchat's Facial Recognition to the Inception of Semiconductors
 The US Patent & Trademark Office, short USPTO, offers a full-fledged directed graph of US patent
 citations since 1975. Many at the time obscure patents paved the way for groundbreaking new
 technologies in the future, as for example Google's Page Rank (#6285999) or Stephen Wozniak’s
-Microcomputer for use with video display (#4136359).. In our project we endeavor to visualize
+Microcomputer for use with video display (#4136359). In our project we endeavor to visualize
 this massivegraph with more than
 89 Million edges in an appealing and concise way in order to render the narration of more
 intricate stories possible and offer potential users a slick and interactive interface
