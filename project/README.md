@@ -33,17 +33,22 @@ as we know it today.
  - [x] Look for efficient graph processing libraries. Preferably with GPU integration.
  - [x] Sight data and perform preliminary analysis.
  - [x] Find blog skeleton.
- - [ ] Discuss narrative of the data story.
+ - [x] Discuss narrative of the data story.
 
 ### Internal milestones up until milestone 3
- - [ ] 1st week of December: Get the blog up and running.
- - [ ] 1st week of December: Prepare and compute first data blocks for the website
- - [ ] 2nd week of December: Finish data story.
- - [ ] 2nd week of December: Have visualization online.
- - [ ] Beginning of 3rd week of December: Polish.
+ - [x] 1st week of December: Get the blog up and running.
+ - [x] 1st week of December: Prepare and compute first data blocks for the website
+ - [x] 2nd week of December: Finish data story.
+ - [x] 2nd week of December: Have visualization online.
+ - [x] Beginning of 3rd week of December: Polish.
 
 ### TA Questions
  * What technologies do professional data blogs like FiveThirtyEight use for visualisation?
     - A variety, from custom JS to custom photoshop and illustrator.
  * What is [Kirell Benzi's](http://www.kirellbenzi.com) magic library?
     -  Most advanced stuff can be done with d3.js, other graph visualizations can be done with igraph, graph-tool, gephi, etc. but not all of them scale well.
+
+### Workload distribution
+ - Andrea Caforio coded up the website, preparared the data and tools (e.g. graph-tool) and performed preliminary data analysis.
+ - Michael Allemann designed and wrote the narrative and explored the data and possible roads to go down.
+ - Roman Bachmann explored the data and using those insights created the graph visualisations.
