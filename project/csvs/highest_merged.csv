@@ -1,0 +1,99 @@
+,patent_id,in_degree,rank_in,patent_title_in,pagerank,rank_pr,patent_title_pr,rank_avg
+0,4683202,3709,1,Process for amplifying nucleic acid sequences,1.75e-05,6,Process for amplifying nucleic acid sequences,3.5
+2,4683195,3188,3,"Process for amplifying, detecting, and/or-cloning nucleic acid sequences",1.6800000000000002e-05,7,"Process for amplifying, detecting, and/or-cloning nucleic acid sequences",5.0
+1,5523520,3342,2,Mutant dwarfism gene of petunia,1.32e-05,10,Mutant dwarfism gene of petunia,6.0
+7,4723129,1871,31,Bubble jet recording method and apparatus in which a heating element generates bubbles in a liquid flow path to project droplets,8.12e-06,34,Bubble jet recording method and apparatus in which a heating element generates bubbles in a liquid flow path to project droplets,32.5
+8,5572643,1811,34,Web browser with dynamic display of information objects during linking,7.92e-06,36,Web browser with dynamic display of information objects during linking,35.0
+12,4463359,1680,38,Droplet generating method and apparatus thereof,8.16e-06,32,Droplet generating method and apparatus thereof,35.0
+19,5103459,1554,48,System and method for generating signal waveforms in a CDMA cellular telephone system,9.06e-06,23,System and method for generating signal waveforms in a CDMA cellular telephone system,35.5
+33,4901307,1407,67,Spread spectrum multiple access communication system using satellite or terrestrial repeaters,8.41e-06,29,Spread spectrum multiple access communication system using satellite or terrestrial repeaters,48.0
+17,4740796,1587,46,Bubble jet recording method and apparatus in which a heating element generates bubbles in multiple liquid flow paths to project droplets,6.35e-06,83,Bubble jet recording method and apparatus in which a heating element generates bubbles in multiple liquid flow paths to project droplets,64.5
+21,4558333,1476,51,Liquid jet recording head,6.04e-06,103,Liquid jet recording head,77.0
+23,4345262,1446,54,Ink jet recording method,5.92e-06,109,Ink jet recording method,81.5
+32,4313124,1418,64,Liquid jet recording process and liquid jet recording head,6.05e-06,102,Liquid jet recording process and liquid jet recording head,83.0
+6,4816567,2229,29,Recombinant immunoglobin preparations,5.51e-06,138,Recombinant immunoglobin preparations,83.5
+50,4405829,1092,131,Cryptographic communications system and method,7.67e-06,42,Cryptographic communications system and method,86.5
+24,5367109,1445,55,Inbred corn line PHHB9,5.78e-06,120,Inbred corn line PHHB9,87.5
+30,4706121,1423,62,TV schedule system and process,5.72e-06,125,TV schedule system and process,93.5
+48,4769292,1132,118,Electroluminescent device with modified thin film luminescent zone,6.43e-06,76,Electroluminescent device with modified thin film luminescent zone,97.0
+26,5850009,1434,58,Inbred maize line PH0HC,5.39e-06,152,Inbred maize line PH0HC,105.0
+37,4459600,1379,71,Liquid jet recording device,5.49e-06,142,Liquid jet recording device,106.5
+27,5304719,1432,59,Inbred corn line PHT47,5.23e-06,165,Inbred corn line PHT47,112.0
+40,5774660,1317,81,World-wide-web server with delayed resource-binding for resource-based load balancing on a distributed resource multi-node network,5.45e-06,148,World-wide-web server with delayed resource-binding for resource-based load balancing on a distributed resource multi-node network,114.5
+22,5143854,1451,53,Large scale photolithographic solid phase synthesis of polypeptides and receptor binding screening thereof,5.03e-06,178,Large scale photolithographic solid phase synthesis of polypeptides and receptor binding screening thereof,115.5
+61,4558413,942,243,Software version management system,1.8e-05,4,Software version management system,123.5
+9,4799156,1797,35,Interactive market management system,4.46e-06,258,Interactive market management system,146.5
+3,4733665,2697,4,"Expandable intraluminal graft, and method and apparatus for implanting an expandable intraluminal graft",4.23e-06,289,"Expandable intraluminal graft, and method and apparatus for implanting an expandable intraluminal graft",146.5
+31,5754939,1420,63,System for generation of user profiles for a system for customized electronic identification of desirable objects,4.52e-06,251,System for generation of user profiles for a system for customized electronic identification of desirable objects,157.0
+66,4200770,872,335,Cryptographic apparatus and method,8.45e-06,28,Cryptographic apparatus and method,181.5
+63,4503569,910,282,Transluminally placed expandable graft prosthesis,5.98e-06,107,Transluminally placed expandable graft prosthesis,194.5
+67,5056109,869,343,Method and apparatus for controlling transmission power in a CDMA cellular mobile telephone system,7.35e-06,50,Method and apparatus for controlling transmission power in a CDMA cellular mobile telephone system,196.5
+38,5247190,1366,74,Electroluminescent devices,3.98e-06,343,Electroluminescent devices,208.5
+20,5710887,1544,49,Computer system and method for electronic commerce,3.75e-06,379,Computer system and method for electronic commerce,214.0
+49,5172338,1127,119,Multi-state EEprom read and write circuits and techniques,4.09e-06,315,Multi-state EEprom read and write circuits and techniques,217.0
+42,4179337,1266,90,Non-immunogenic polypeptides,3.94e-06,348,Non-immunogenic polypeptides,219.0
+14,4658085,1620,41,"Hybridization using cytoplasmic male sterility, cytoplasmic herbicide tolerance, and herbicide tolerance from nuclear genes",3.67e-06,398,"Hybridization using cytoplasmic male sterility, cytoplasmic herbicide tolerance, and herbicide tolerance from nuclear genes",219.5
+64,5008853,883,317,Representation of collaborative multi-user activities relative to shared structured data objects in a networked workstation environment,5.57e-06,132,Representation of collaborative multi-user activities relative to shared structured data objects in a networked workstation environment,224.5
+36,4946778,1387,70,Single polypeptide chain binding molecules,3.69e-06,394,Single polypeptide chain binding molecules,232.0
+10,5740549,1712,36,Information and advertising distribution system and method,3.53e-06,453,Information and advertising distribution system and method,244.5
+45,5708780,1189,105,Internet server access control and monitoring systems,3.72e-06,386,Internet server access control and monitoring systems,245.5
+11,5742905,1696,37,Personal communications internetworking,3.53e-06,456,Personal communications internetworking,246.5
+65,5043736,874,331,Cellular position locating system,5.14e-06,168,Cellular position locating system,249.5
+47,4425908,1162,112,Blood clot filter,3.68e-06,395,Blood clot filter,253.5
+29,5862325,1429,61,Computer-based communication system and method using metadata defining a control structure,3.52e-06,460,Computer-based communication system and method using metadata defining a control structure,260.5
+41,4965188,1305,83,"Process for amplifying, detecting, and/or cloning nucleic acid sequences using a thermostable enzyme",3.52e-06,459,"Process for amplifying, detecting, and/or cloning nucleic acid sequences using a thermostable enzyme",271.0
+46,5608786,1170,109,Unified messaging system and method,3.53e-06,457,Unified messaging system and method,283.0
+4,5892900,2451,5,Systems and methods for secure transaction management and electronic rights protection,3.29e-06,564,Systems and methods for secure transaction management and electronic rights protection,284.5
+44,5223844,1254,93,Vehicle tracking and security system,3.41e-06,495,Vehicle tracking and security system,294.0
+13,5848396,1679,39,Method and apparatus for determining behavioral profile of a computer user,3.3e-06,554,Method and apparatus for determining behavioral profile of a computer user,296.5
+55,3867728,1022,165,- No title available -,3.55e-06,446,- No title available -,305.5
+60,5374564,943,242,Process for the production of thin semiconductor material films,3.58e-06,428,Process for the production of thin semiconductor material films,335.0
+52,5347632,1059,145,Reception system for an interactive computer network and method of operation,3.37e-06,528,Reception system for an interactive computer network and method of operation,336.5
+25,5220501,1442,56,Method and system for remote delivery of retail banking services,3.15e-06,622,Method and system for remote delivery of retail banking services,339.0
+68,5530852,867,344,Method for extracting profiles and topics from a first file written in a first markup language and generating files in different markup languages containing the profiles and topics for use in accessing data described by the profiles and topics,3.97e-06,345,Method for extracting profiles and topics from a first file written in a first markup language and generating files in different markup languages containing the profiles and topics for use in accessing data described by the profiles and topics,344.5
+84,4539507,753,665,Organic electroluminescent devices having improved power conversion efficiencies,8.26e-06,30,Organic electroluminescent devices having improved power conversion efficiencies,347.5
+77,3868956,800,507,- No title available -,4.92e-06,194,- No title available -,350.5
+72,4658093,847,392,Software distribution system,4.09e-06,313,Software distribution system,352.5
+5,5744864,2267,21,Semiconductor device having a transparent switching element,3.04e-06,694,Semiconductor device having a transparent switching element,357.5
+70,5247347,855,370,PSTN architecture for video-on-demand services,3.86e-06,356,PSTN architecture for video-on-demand services,363.0
+18,6029195,1586,47,System for customized electronic identification of desirable objects,3.05e-06,682,System for customized electronic identification of desirable objects,364.5
+73,5998925,828,437,Light emitting device having a nitride compound semiconductor and a phosphor containing a garnet fluorescent material,4.16e-06,299,Light emitting device having a nitride compound semiconductor and a phosphor containing a garnet fluorescent material,368.0
+82,5101501,765,621,Method and system for providing a soft handoff in communications in a CDMA cellular telephone system,5.73e-06,124,Method and system for providing a soft handoff in communications in a CDMA cellular telephone system,372.5
+51,4674044,1067,142,Automated securities trading system,3.17e-06,612,Automated securities trading system,377.0
+81,3702886,779,579,- No title available -,5.07e-06,176,- No title available -,377.5
+54,4903201,1024,164,Automated futures trading exchange,3.19e-06,597,Automated futures trading exchange,380.5
+74,3573747,820,454,- No title available -,4.05e-06,322,- No title available -,388.0
+43,5835087,1254,92,System for generation of object profiles for a system for customized electronic identification of desirable objects,3.04e-06,690,System for generation of object profiles for a system for customized electronic identification of desirable objects,391.0
+76,4993068,808,486,Unforgeable personal identification system,4.13e-06,305,Unforgeable personal identification system,395.5
+15,4655771,1606,44,Prosthesis comprising an expansible or contractile tubular body,2.95e-06,755,Prosthesis comprising an expansible or contractile tubular body,399.5
+35,5223409,1389,69,Directed evolution of novel binding proteins,2.98e-06,735,Directed evolution of novel binding proteins,402.0
+34,4580568,1391,68,Percutaneous endovascular stent and method for insertion thereof,2.97e-06,738,Percutaneous endovascular stent and method for insertion thereof,403.0
+39,5796952,1330,79,Method and apparatus for tracking client interaction with a network resource and creating client profiles and resource database,2.99e-06,729,Method and apparatus for tracking client interaction with a network resource and creating client profiles and resource database,404.0
+53,4800159,1034,161,"Process for amplifying, detecting, and/or cloning nucleic acid sequences",3.1e-06,651,"Process for amplifying, detecting, and/or cloning nucleic acid sequences",406.0
+62,3953566,940,245,Process for producing porous products,3.26e-06,571,Process for producing porous products,408.0
+57,5968830,960,225,Soybean transformation and regeneration methods,3.18e-06,602,Soybean transformation and regeneration methods,413.5
+75,4376110,818,460,Immunometric assays using monoclonal antibodies,3.73e-06,385,Immunometric assays using monoclonal antibodies,422.5
+86,4321672,750,676,Financial data processing system,5.13e-06,169,Financial data processing system,422.5
+56,4827508,1007,176,Database usage metering and protection system and method,2.98e-06,736,Database usage metering and protection system and method,456.0
+58,5163131,956,230,Parallel I/O network file server architecture,3.02e-06,704,Parallel I/O network file server architecture,467.0
+59,4977455,947,239,System and process for VCR scheduling,3e-06,721,System and process for VCR scheduling,480.0
+78,4458066,793,528,Process for preparing polynucleotides,3.54e-06,449,Process for preparing polynucleotides,488.5
+16,5948040,1590,45,Travel reservation information and planning system,2.65e-06,951,Travel reservation information and planning system,498.0
+28,3845770,1431,60,- No title available -,2.66e-06,941,- No title available -,500.5
+90,4837798,744,709,Communication system having unified messaging,4.03e-06,326,Communication system having unified messaging,517.5
+85,5329578,751,674,Personal communication service with mobility manager,3.84e-06,363,Personal communication service with mobility manager,518.5
+93,5109390,717,841,Diversity receiver in a CDMA cellular telephone system,4.64e-06,231,Diversity receiver in a CDMA cellular telephone system,536.0
+96,4731499,702,916,Hybrid corn plant and seed,5.07e-06,175,Hybrid corn plant and seed,545.5
+79,3971065,787,546,Color imaging array,3.31e-06,550,Color imaging array,548.0
+88,5471515,745,703,Active pixel sensor with intra-pixel charge transfer,3.58e-06,424,Active pixel sensor with intra-pixel charge transfer,563.5
+69,5774668,859,361,System for on-line service in which gateway computer uses service map which includes loading condition of servers broadcasted by application servers for load balancing,2.92e-06,770,System for on-line service in which gateway computer uses service map which includes loading condition of servers broadcasted by application servers for load balancing,565.5
+94,4517763,713,859,Hybridization process utilizing a combination of cytoplasmic male sterility and herbicide tolerance,4.23e-06,290,Hybridization process utilizing a combination of cytoplasmic male sterility and herbicide tolerance,574.5
+71,4512338,852,381,Process for restoring patency to body vessels,2.78e-06,862,Process for restoring patency to body vessels,621.5
+89,5155847,745,704,Method and apparatus for updating software at remote locations,3.32e-06,544,Method and apparatus for updating software at remote locations,624.0
+91,3996345,742,717,Fluorescence quenching with immunological pairs in immunoassays,3.3e-06,558,Fluorescence quenching with immunological pairs in immunoassays,637.5
+83,3773919,755,652,- No title available -,3.04e-06,696,- No title available -,674.0
+80,5155591,783,560,Method and apparatus for providing demographically targeted television commercials,2.85e-06,820,Method and apparatus for providing demographically targeted television commercials,690.0
+92,5623601,737,742,Apparatus and method for providing a secure gateway for communication and data exchanges between networks,3.03e-06,698,Apparatus and method for providing a secure gateway for communication and data exchanges between networks,720.0
+95,5151789,710,878,"System and method for automatic, unattended recording of cable television programs",3.15e-06,626,"System and method for automatic, unattended recording of cable television programs",752.0
+87,4309777,747,697,Artificial intervertebral disc,2.69e-06,928,Artificial intervertebral disc,812.5
+97,4816397,690,990,Multichain polypeptides or proteins and processes for their production,2.9e-06,779,Multichain polypeptides or proteins and processes for their production,884.5
