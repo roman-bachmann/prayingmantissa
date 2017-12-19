@@ -1,6 +1,9 @@
 # Backtracing Innovation
 From Snapchat's Facial Recognition to the Inception of Semiconductors
 
+# DISCLAIMER! Github's Jupyter preview chokes on our notebook, please use the following link:
+# [Project Notebook](https://nbviewer.jupyter.org/github/qantik/prayingmantissa/blob/master/project/patents.ipynb)
+
 ### Abstract
 The US Patent & Trademark Office, short USPTO, offers a full-fledged directed graph of US patent
 citations since 1975. Many at the time obscure patents paved the way for groundbreaking new
